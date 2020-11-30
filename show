@@ -1,0 +1,65 @@
+[33mcommit 8f295c92afb89e3d7ffa09b04dc30a76e93f53bf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: part1[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Youming Ding <ding190@data.cs.purdue.edu>
+Date:   Tue Jun 23 21:13:59 2020 -0400
+
+    part1 done
+
+[1mdiff --git a/.local.git.out b/.local.git.out[m
+[1mindex b86698c..f0c833b 100644[m
+[1m--- a/.local.git.out[m
+[1m+++ b/.local.git.out[m
+[36m@@ -1403,3 +1403,54 @@[m [mA	tests/test_split[m
+ A	tests/test_verify[m
+ A	tests/test_very_large[m
+ Your branch is up to date with 'origin/master'.[m
+[32m+[m[32m[master fef813f] Commit[m
+[32m+[m[32m Committer: Youming Ding <ding190@data.cs.purdue.edu>[m
+[32m+[m[32mYour name and email address were configured automatically based[m
+[32m+[m[32mon your username and hostname. Please check that they are accurate.[m
+[32m+[m[32mYou can suppress this message by setting them explicitly. Run the[m
+[32m+[m[32mfollowing command and follow the instructions in your editor to edit[m
+[32m+[m[32myour configuration file:[m
+[32m+[m
+[32m+[m[32m    git config --global --edit[m
+[32m+[m
+[32m+[m[32mAfter doing this, you may fix the identity used for this commit with:[m
+[32m+[m
+[32m+[m[32m    git commit --amend --reset-author[m
+[32m+[m
+[32m+[m[32m 36 files changed, 1405 insertions(+)[m
+[32m+[m[32m create mode 100644 .local.git.out[m
+[32m+[m[32m create mode 100755 examples/composite_ex[m
+[32m+[m[32m create mode 100755 examples/constructor_ex[m
+[32m+[m[32m create mode 100755 tests/test_all_lists[m
+[32m+[m[32m create mode 100755 tests/test_coalesce_chunk_coalesce[m
+[32m+[m[32m create mode 100755 tests/test_coalesce_chunk_insert[m
+[32m+[m[32m create mode 100755 tests/test_corrupted_canary[m
+[32m+[m[32m create mode 100755 tests/test_double_free[m
+[32m+[m[32m create mode 100755 tests/test_exact[m
+[32m+[m[32m create mode 100755 tests/test_free_both[m
+[32m+[m[32m create mode 100755 tests/test_free_even[m
+[32m+[m[32m create mode 100755 tests/test_free_insert[m
+[32m+[m[32m create mode 100755 tests/test_free_left[m
+[32m+[m[32m create mode 100755 tests/test_free_null[m
+[32m+[m[32m create mode 100755 tests/test_free_odd[m
+[32m+[m[32m create mode 100755 tests/test_free_right[m
+[32m+[m[32m create mode 100755 tests/test_insert_chunk[m
+[32m+[m[32m create mode 100755 tests/test_large[m
+[32m+[m[32m create mode 100755 tests/test_locks[m
+[32m+[m[32m create mode 100755 tests/test_malloc_large[m
+[32m+[m[32m create mode 100755 tests/test_malloc_too_large[m
+[32m+[m[32m create mode 100755 tests/test_malloc_zero[m
+[32m+[m[32m create mode 100755 tests/test_multi_malloc[m
+[32m+[m[32m create mode 100755 tests/test_out_of_ram[m
+[32m+[m[32m create mode 100755 tests/test_random[m
+[32m+[m[32m create mode 100755 tests/test_random_sizes[m
+[32m+[m[32m create mode 100755 tests/test_simple0[m
+[32m+[m[32m create mode 100755 tests/test_simple1[m
+[32m+[m[32m create mode 100755 tests/test_simple2[m
+[32m+[m[32m create mode 100755 tests/test_simple3[m
+[32m+[m[32m create mode 100755 tests/test_simple4[m
+[32m+[m[32m create mode 100755 tests/test_simple5[m
+[32m+[m[32m create mode 100755 tests/test_simple6[m
+[32m+[m[32m create mode 100755 tests/test_split[m
+[32m+[m[32m create mode 100755 tests/test_verify[m
+[32m+[m[32m create mode 100755 tests/test_very_large[m

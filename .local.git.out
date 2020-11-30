@@ -1,0 +1,4218 @@
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 6720055] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 72 insertions(+), 5 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 663fe66] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master afa61e1] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 6a0c540] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 2333ade] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master ab45149] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 1d30a1e] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master faee9bc] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 8 insertions(+), 3 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 3e7b3fc] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 096c6a3] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 74390bd] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master ab4c0c1] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	examples/composite_ex
+	examples/constructor_ex
+	tests/.nfs000000000a9402d000029be1
+	tests/.nfs000000000a9409e500029be3
+	tests/.nfs000000000a9409e600029be2
+	tests/test_all_lists
+	tests/test_coalesce_chunk_coalesce
+	tests/test_coalesce_chunk_insert
+	tests/test_corrupted_canary
+	tests/test_double_free
+	tests/test_exact
+	tests/test_free_both
+	tests/test_free_even
+	tests/test_free_insert
+	tests/test_free_left
+	tests/test_free_null
+	tests/test_free_odd
+	tests/test_free_right
+	tests/test_insert_chunk
+	tests/test_large
+	tests/test_locks
+	tests/test_malloc_large
+	tests/test_malloc_too_large
+	tests/test_malloc_zero
+	tests/test_multi_malloc
+	tests/test_out_of_ram
+	tests/test_random
+	tests/test_random_sizes
+	tests/test_simple0
+	tests/test_simple1
+	tests/test_simple2
+	tests/test_simple3
+	tests/test_simple4
+	tests/test_simple5
+	tests/test_simple6
+	tests/test_split
+	tests/test_verify
+	tests/test_very_large
+
+nothing added to commit but untracked files present
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master d50baac] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master d254f30] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master e280146] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 1328ab9] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 34fd218] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+), 14 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master d879fd6] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master b4c6767] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master d13f487] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 4047535] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 320ab8b] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 9 insertions(+), 2 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 31e96e9] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 69cc69a] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 279b349] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master be929aa] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 00274ca] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+), 17 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master b8607eb] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 35 insertions(+)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 328c570] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master c5a9723] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master db2975a] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 84 insertions(+), 4 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	examples/composite_ex
+	examples/constructor_ex
+	tests/test_all_lists
+	tests/test_coalesce_chunk_coalesce
+	tests/test_coalesce_chunk_insert
+	tests/test_corrupted_canary
+	tests/test_double_free
+	tests/test_exact
+	tests/test_free_both
+	tests/test_free_even
+	tests/test_free_insert
+	tests/test_free_left
+	tests/test_free_null
+	tests/test_free_odd
+	tests/test_free_right
+	tests/test_insert_chunk
+	tests/test_large
+	tests/test_locks
+	tests/test_malloc_large
+	tests/test_malloc_too_large
+	tests/test_malloc_zero
+	tests/test_multi_malloc
+	tests/test_out_of_ram
+	tests/test_random
+	tests/test_random_sizes
+	tests/test_simple0
+	tests/test_simple1
+	tests/test_simple2
+	tests/test_simple3
+	tests/test_simple4
+	tests/test_simple5
+	tests/test_simple6
+	tests/test_split
+	tests/test_verify
+	tests/test_very_large
+
+nothing added to commit but untracked files present
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 0048081] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 11 insertions(+), 11 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 869ab50] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master acdf898] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 349cf6f] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 2d59685] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 5c186b4] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 4853a4d] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 1f8a45d] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 615bfe6] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 01aa88a] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 6 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master f28ace5] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 19 insertions(+), 6 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master d171a2d] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 995c02b] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 67 insertions(+), 6 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 11ddb84] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	examples/composite_ex
+	examples/constructor_ex
+	tests/.nfs000000000a9409ae00029cdc
+	tests/test_all_lists
+	tests/test_coalesce_chunk_coalesce
+	tests/test_coalesce_chunk_insert
+	tests/test_corrupted_canary
+	tests/test_double_free
+	tests/test_exact
+	tests/test_free_both
+	tests/test_free_even
+	tests/test_free_insert
+	tests/test_free_left
+	tests/test_free_null
+	tests/test_free_odd
+	tests/test_free_right
+	tests/test_insert_chunk
+	tests/test_large
+	tests/test_locks
+	tests/test_malloc_large
+	tests/test_malloc_too_large
+	tests/test_malloc_zero
+	tests/test_multi_malloc
+	tests/test_out_of_ram
+	tests/test_random
+	tests/test_random_sizes
+	tests/test_simple0
+	tests/test_simple1
+	tests/test_simple2
+	tests/test_simple3
+	tests/test_simple4
+	tests/test_simple5
+	tests/test_simple6
+	tests/test_split
+	tests/test_verify
+	tests/test_very_large
+
+nothing added to commit but untracked files present
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	examples/composite_ex
+	examples/constructor_ex
+	tests/test_all_lists
+	tests/test_coalesce_chunk_coalesce
+	tests/test_coalesce_chunk_insert
+	tests/test_corrupted_canary
+	tests/test_double_free
+	tests/test_exact
+	tests/test_free_both
+	tests/test_free_even
+	tests/test_free_insert
+	tests/test_free_left
+	tests/test_free_null
+	tests/test_free_odd
+	tests/test_free_right
+	tests/test_insert_chunk
+	tests/test_large
+	tests/test_locks
+	tests/test_malloc_large
+	tests/test_malloc_too_large
+	tests/test_malloc_zero
+	tests/test_multi_malloc
+	tests/test_out_of_ram
+	tests/test_random
+	tests/test_random_sizes
+	tests/test_simple0
+	tests/test_simple1
+	tests/test_simple2
+	tests/test_simple3
+	tests/test_simple4
+	tests/test_simple5
+	tests/test_simple6
+	tests/test_split
+	tests/test_verify
+	tests/test_very_large
+
+nothing added to commit but untracked files present
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master f2da1b9] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 20 insertions(+)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master f0ef845] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master fb28b86] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 9412b77] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master aa8ad5d] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master d2299b2] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 29784c1] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 015ea98] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 35aa436] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 72787bd] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master f3eb26b] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 136d6ca] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 20 insertions(+), 20 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master f36d3ee] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 12 insertions(+), 12 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	examples/composite_ex
+	examples/constructor_ex
+	tests/test_all_lists
+	tests/test_coalesce_chunk_coalesce
+	tests/test_coalesce_chunk_insert
+	tests/test_corrupted_canary
+	tests/test_double_free
+	tests/test_exact
+	tests/test_free_both
+	tests/test_free_even
+	tests/test_free_insert
+	tests/test_free_left
+	tests/test_free_null
+	tests/test_free_odd
+	tests/test_free_right
+	tests/test_insert_chunk
+	tests/test_large
+	tests/test_locks
+	tests/test_malloc_large
+	tests/test_malloc_too_large
+	tests/test_malloc_zero
+	tests/test_multi_malloc
+	tests/test_out_of_ram
+	tests/test_random
+	tests/test_random_sizes
+	tests/test_simple0
+	tests/test_simple1
+	tests/test_simple2
+	tests/test_simple3
+	tests/test_simple4
+	tests/test_simple5
+	tests/test_simple6
+	tests/test_split
+	tests/test_verify
+	tests/test_very_large
+
+nothing added to commit but untracked files present
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	examples/composite_ex
+	examples/constructor_ex
+	tests/test_all_lists
+	tests/test_coalesce_chunk_coalesce
+	tests/test_coalesce_chunk_insert
+	tests/test_corrupted_canary
+	tests/test_double_free
+	tests/test_exact
+	tests/test_free_both
+	tests/test_free_even
+	tests/test_free_insert
+	tests/test_free_left
+	tests/test_free_null
+	tests/test_free_odd
+	tests/test_free_right
+	tests/test_insert_chunk
+	tests/test_large
+	tests/test_locks
+	tests/test_malloc_large
+	tests/test_malloc_too_large
+	tests/test_malloc_zero
+	tests/test_multi_malloc
+	tests/test_out_of_ram
+	tests/test_random
+	tests/test_random_sizes
+	tests/test_simple0
+	tests/test_simple1
+	tests/test_simple2
+	tests/test_simple3
+	tests/test_simple4
+	tests/test_simple5
+	tests/test_simple6
+	tests/test_split
+	tests/test_verify
+	tests/test_very_large
+
+nothing added to commit but untracked files present
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 3626583] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 13 insertions(+), 12 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master ff87dc1] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	examples/composite_ex
+	examples/constructor_ex
+	tests/test_all_lists
+	tests/test_coalesce_chunk_coalesce
+	tests/test_coalesce_chunk_insert
+	tests/test_corrupted_canary
+	tests/test_double_free
+	tests/test_exact
+	tests/test_free_both
+	tests/test_free_even
+	tests/test_free_insert
+	tests/test_free_left
+	tests/test_free_null
+	tests/test_free_odd
+	tests/test_free_right
+	tests/test_insert_chunk
+	tests/test_large
+	tests/test_locks
+	tests/test_malloc_large
+	tests/test_malloc_too_large
+	tests/test_malloc_zero
+	tests/test_multi_malloc
+	tests/test_out_of_ram
+	tests/test_random
+	tests/test_random_sizes
+	tests/test_simple0
+	tests/test_simple1
+	tests/test_simple2
+	tests/test_simple3
+	tests/test_simple4
+	tests/test_simple5
+	tests/test_simple6
+	tests/test_split
+	tests/test_verify
+	tests/test_very_large
+
+nothing added to commit but untracked files present
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	examples/composite_ex
+	examples/constructor_ex
+	tests/test_all_lists
+	tests/test_coalesce_chunk_coalesce
+	tests/test_coalesce_chunk_insert
+	tests/test_corrupted_canary
+	tests/test_double_free
+	tests/test_exact
+	tests/test_free_both
+	tests/test_free_even
+	tests/test_free_insert
+	tests/test_free_left
+	tests/test_free_null
+	tests/test_free_odd
+	tests/test_free_right
+	tests/test_insert_chunk
+	tests/test_large
+	tests/test_locks
+	tests/test_malloc_large
+	tests/test_malloc_too_large
+	tests/test_malloc_zero
+	tests/test_multi_malloc
+	tests/test_out_of_ram
+	tests/test_random
+	tests/test_random_sizes
+	tests/test_simple0
+	tests/test_simple1
+	tests/test_simple2
+	tests/test_simple3
+	tests/test_simple4
+	tests/test_simple5
+	tests/test_simple6
+	tests/test_split
+	tests/test_verify
+	tests/test_very_large
+
+nothing added to commit but untracked files present
+A	.local.git.out
+A	examples/composite_ex
+A	examples/constructor_ex
+A	tests/test_all_lists
+A	tests/test_coalesce_chunk_coalesce
+A	tests/test_coalesce_chunk_insert
+A	tests/test_corrupted_canary
+A	tests/test_double_free
+A	tests/test_exact
+A	tests/test_free_both
+A	tests/test_free_even
+A	tests/test_free_insert
+A	tests/test_free_left
+A	tests/test_free_null
+A	tests/test_free_odd
+A	tests/test_free_right
+A	tests/test_insert_chunk
+A	tests/test_large
+A	tests/test_locks
+A	tests/test_malloc_large
+A	tests/test_malloc_too_large
+A	tests/test_malloc_zero
+A	tests/test_multi_malloc
+A	tests/test_out_of_ram
+A	tests/test_random
+A	tests/test_random_sizes
+A	tests/test_simple0
+A	tests/test_simple1
+A	tests/test_simple2
+A	tests/test_simple3
+A	tests/test_simple4
+A	tests/test_simple5
+A	tests/test_simple6
+A	tests/test_split
+A	tests/test_verify
+A	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master fef813f] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 36 files changed, 1405 insertions(+)
+ create mode 100644 .local.git.out
+ create mode 100755 examples/composite_ex
+ create mode 100755 examples/constructor_ex
+ create mode 100755 tests/test_all_lists
+ create mode 100755 tests/test_coalesce_chunk_coalesce
+ create mode 100755 tests/test_coalesce_chunk_insert
+ create mode 100755 tests/test_corrupted_canary
+ create mode 100755 tests/test_double_free
+ create mode 100755 tests/test_exact
+ create mode 100755 tests/test_free_both
+ create mode 100755 tests/test_free_even
+ create mode 100755 tests/test_free_insert
+ create mode 100755 tests/test_free_left
+ create mode 100755 tests/test_free_null
+ create mode 100755 tests/test_free_odd
+ create mode 100755 tests/test_free_right
+ create mode 100755 tests/test_insert_chunk
+ create mode 100755 tests/test_large
+ create mode 100755 tests/test_locks
+ create mode 100755 tests/test_malloc_large
+ create mode 100755 tests/test_malloc_too_large
+ create mode 100755 tests/test_malloc_zero
+ create mode 100755 tests/test_multi_malloc
+ create mode 100755 tests/test_out_of_ram
+ create mode 100755 tests/test_random
+ create mode 100755 tests/test_random_sizes
+ create mode 100755 tests/test_simple0
+ create mode 100755 tests/test_simple1
+ create mode 100755 tests/test_simple2
+ create mode 100755 tests/test_simple3
+ create mode 100755 tests/test_simple4
+ create mode 100755 tests/test_simple5
+ create mode 100755 tests/test_simple6
+ create mode 100755 tests/test_split
+ create mode 100755 tests/test_verify
+ create mode 100755 tests/test_very_large
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master ec5bf0f] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 7c1a8f2] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 52 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master b41620c] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 52 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 148f7f3] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 58 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master f5e8bbc] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 52 insertions(+), 1 deletion(-)
+ rewrite tests/test_multi_malloc (63%)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 1b92dab] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 54 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master b9f150d] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 55d27dc] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 53 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master ad7fd2d] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 53 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master e96c168] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 53 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 4f51596] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 50 insertions(+)
+M	.local.git.out
+D	examples/composite_ex
+D	examples/constructor_ex
+D	tests/test_all_lists
+D	tests/test_coalesce_chunk_coalesce
+D	tests/test_coalesce_chunk_insert
+D	tests/test_corrupted_canary
+D	tests/test_double_free
+D	tests/test_exact
+D	tests/test_free_both
+D	tests/test_free_even
+D	tests/test_free_insert
+D	tests/test_free_left
+D	tests/test_free_null
+D	tests/test_free_odd
+D	tests/test_free_right
+D	tests/test_insert_chunk
+D	tests/test_large
+D	tests/test_locks
+D	tests/test_malloc_large
+D	tests/test_malloc_too_large
+D	tests/test_malloc_zero
+D	tests/test_multi_malloc
+D	tests/test_out_of_ram
+D	tests/test_random
+D	tests/test_random_sizes
+D	tests/test_simple0
+D	tests/test_simple1
+D	tests/test_simple2
+D	tests/test_simple3
+D	tests/test_simple4
+D	tests/test_simple5
+D	tests/test_simple6
+D	tests/test_split
+D	tests/test_verify
+D	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 7ed05ea] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 36 files changed, 52 insertions(+)
+ delete mode 100755 examples/composite_ex
+ delete mode 100755 examples/constructor_ex
+ delete mode 100755 tests/test_all_lists
+ delete mode 100755 tests/test_coalesce_chunk_coalesce
+ delete mode 100755 tests/test_coalesce_chunk_insert
+ delete mode 100755 tests/test_corrupted_canary
+ delete mode 100755 tests/test_double_free
+ delete mode 100755 tests/test_exact
+ delete mode 100755 tests/test_free_both
+ delete mode 100755 tests/test_free_even
+ delete mode 100755 tests/test_free_insert
+ delete mode 100755 tests/test_free_left
+ delete mode 100755 tests/test_free_null
+ delete mode 100755 tests/test_free_odd
+ delete mode 100755 tests/test_free_right
+ delete mode 100755 tests/test_insert_chunk
+ delete mode 100755 tests/test_large
+ delete mode 100755 tests/test_locks
+ delete mode 100755 tests/test_malloc_large
+ delete mode 100755 tests/test_malloc_too_large
+ delete mode 100755 tests/test_malloc_zero
+ delete mode 100755 tests/test_multi_malloc
+ delete mode 100755 tests/test_out_of_ram
+ delete mode 100755 tests/test_random
+ delete mode 100755 tests/test_random_sizes
+ delete mode 100755 tests/test_simple0
+ delete mode 100755 tests/test_simple1
+ delete mode 100755 tests/test_simple2
+ delete mode 100755 tests/test_simple3
+ delete mode 100755 tests/test_simple4
+ delete mode 100755 tests/test_simple5
+ delete mode 100755 tests/test_simple6
+ delete mode 100755 tests/test_split
+ delete mode 100755 tests/test_verify
+ delete mode 100755 tests/test_very_large
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 092f7e5] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 52 insertions(+)
+M	.local.git.out
+A	show
+Your branch is up to date with 'origin/master'.
+[master 20ad720] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 83 insertions(+)
+ create mode 100644 show
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 3f768d4] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master b7583b2] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 53 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 079dab0] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 53 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master ef4bf0e] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 52 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master b588268] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 63 insertions(+), 12 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master ba44d84] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 22 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master ba5b57e] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 3bb0b01] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 109 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 19ad926] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master e785f08] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 1a0c235] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 54 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 36a73b4] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 58 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master ec05c25] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 53 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 5a951a2] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+<<<<<<< HEAD
+[master 11cc568] Commit
+=======
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master fd02675] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 10 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master d3295ee] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 53 insertions(+), 1 deletion(-)
+ rewrite tests/test_all_lists (61%)
+ rewrite tests/test_coalesce_chunk_insert (62%)
+ rewrite tests/test_corrupted_canary (61%)
+ rewrite tests/test_double_free (63%)
+ rewrite tests/test_exact (60%)
+ rewrite tests/test_free_both (61%)
+ rewrite tests/test_free_even (60%)
+ rewrite tests/test_free_insert (61%)
+ rewrite tests/test_free_left (61%)
+ rewrite tests/test_free_odd (60%)
+ rewrite tests/test_free_right (62%)
+ rewrite tests/test_insert_chunk (61%)
+ rewrite tests/test_large (62%)
+ rewrite tests/test_locks (64%)
+ rewrite tests/test_malloc_large (60%)
+ rewrite tests/test_multi_malloc (63%)
+ rewrite tests/test_out_of_ram (62%)
+ rewrite tests/test_simple1 (61%)
+ rewrite tests/test_simple2 (60%)
+ rewrite tests/test_simple4 (60%)
+ rewrite tests/test_simple5 (60%)
+ rewrite tests/test_split (61%)
+ rewrite tests/test_verify (61%)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 63ac1b5] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 74 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master c5ed06b] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 56 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master d69e13f] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 118 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 58eef2d] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 52 insertions(+), 2 deletions(-)
+ rewrite tests/test_out_of_ram (63%)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master f62728d] Commit
+>>>>>>> dc07903e69e290d44e938bdfcd685eb8532b2919
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+<<<<<<< HEAD
+ 35 files changed, 52 insertions(+), 1 deletion(-)
+M	.local.git.out
+=======
+ 35 files changed, 53 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+>>>>>>> dc07903e69e290d44e938bdfcd685eb8532b2919
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+<<<<<<< HEAD
+[master ff10ee2] Commit
+=======
+[master f480e29] Commit
+>>>>>>> dc07903e69e290d44e938bdfcd685eb8532b2919
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+<<<<<<< HEAD
+ 34 files changed, 50 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+[master 13a6799] Commit
+=======
+ 35 files changed, 54 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 87ce6a4] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 55 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master a2b0bbb] Commit
+>>>>>>> dc07903e69e290d44e938bdfcd685eb8532b2919
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+<<<<<<< HEAD
+ 2 files changed, 20 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+[master 3d01765] Commit
+=======
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master c9b2294] Commit
+>>>>>>> dc07903e69e290d44e938bdfcd685eb8532b2919
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+<<<<<<< HEAD
+ 2 files changed, 22 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is ahead of 'origin/master' by 3 commits.
+  (use "git push" to publish your local commits)
+[master 56677f4] Commit
+=======
+ 35 files changed, 53 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master dd8ed36] Commit
+>>>>>>> dc07903e69e290d44e938bdfcd685eb8532b2919
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+<<<<<<< HEAD
+ 2 files changed, 20 insertions(+), 1 deletion(-)
+M	.local.git.out
+Your branch is ahead of 'origin/master' by 4 commits.
+  (use "git push" to publish your local commits)
+[master 97df771] Commit
+=======
+ 35 files changed, 52 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master d10f9db] Commit
+>>>>>>> dc07903e69e290d44e938bdfcd685eb8532b2919
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+<<<<<<< HEAD
+ 1 file changed, 18 insertions(+)
+M	.local.git.out
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+[master 677922f] Commit
+=======
+ 34 files changed, 50 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master a7b19dc] Commit
+>>>>>>> dc07903e69e290d44e938bdfcd685eb8532b2919
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+<<<<<<< HEAD
+ 1 file changed, 18 insertions(+)
+M	.local.git.out
+Your branch is ahead of 'origin/master' by 6 commits.
+  (use "git push" to publish your local commits)
+[master a28366c] Commit
+=======
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 69a630c] Commit
+>>>>>>> dc07903e69e290d44e938bdfcd685eb8532b2919
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+<<<<<<< HEAD
+ 1 file changed, 18 insertions(+)
+M	.local.git.out
+Your branch is ahead of 'origin/master' by 7 commits.
+  (use "git push" to publish your local commits)
+[master 63d13fb] Commit
+=======
+ 2 files changed, 20 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master d63d5c5] Commit
+>>>>>>> dc07903e69e290d44e938bdfcd685eb8532b2919
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+<<<<<<< HEAD
+ 1 file changed, 18 insertions(+)
+M	.local.git.out
+Your branch and 'origin/master' have diverged,
+and have 8 and 16 different commits each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+[master 9ab21f6] Commit
+=======
+ 34 files changed, 50 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master ba69d47] Commit
+>>>>>>> dc07903e69e290d44e938bdfcd685eb8532b2919
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+<<<<<<< HEAD
+ 1 file changed, 19 insertions(+)
+=======
+ 1 file changed, 17 insertions(+)
+>>>>>>> dc07903e69e290d44e938bdfcd685eb8532b2919
+M	.local.git.out
+D	examples/composite_ex
+D	examples/constructor_ex
+D	tests/test_all_lists
+D	tests/test_coalesce_chunk_coalesce
+D	tests/test_coalesce_chunk_insert
+D	tests/test_corrupted_canary
+D	tests/test_double_free
+D	tests/test_exact
+D	tests/test_free_both
+D	tests/test_free_even
+D	tests/test_free_insert
+D	tests/test_free_left
+D	tests/test_free_null
+D	tests/test_free_odd
+D	tests/test_free_right
+D	tests/test_insert_chunk
+D	tests/test_large
+D	tests/test_locks
+D	tests/test_malloc_large
+D	tests/test_malloc_too_large
+D	tests/test_malloc_zero
+D	tests/test_multi_malloc
+D	tests/test_out_of_ram
+D	tests/test_random
+D	tests/test_random_sizes
+D	tests/test_simple0
+D	tests/test_simple1
+D	tests/test_simple2
+D	tests/test_simple3
+D	tests/test_simple4
+D	tests/test_simple5
+D	tests/test_simple6
+D	tests/test_split
+D	tests/test_verify
+D	tests/test_very_large
+<<<<<<< HEAD
+Your branch and 'origin/master' have diverged,
+and have 9 and 16 different commits each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+[master a4ff08e] Commit
+=======
+Your branch is up to date with 'origin/master'.
+[master 70a2390] Commit
+>>>>>>> dc07903e69e290d44e938bdfcd685eb8532b2919
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+<<<<<<< HEAD
+ 36 files changed, 54 insertions(+)
+=======
+ 36 files changed, 52 insertions(+)
+>>>>>>> dc07903e69e290d44e938bdfcd685eb8532b2919
+ delete mode 100755 examples/composite_ex
+ delete mode 100755 examples/constructor_ex
+ delete mode 100755 tests/test_all_lists
+ delete mode 100755 tests/test_coalesce_chunk_coalesce
+ delete mode 100755 tests/test_coalesce_chunk_insert
+ delete mode 100755 tests/test_corrupted_canary
+ delete mode 100755 tests/test_double_free
+ delete mode 100755 tests/test_exact
+ delete mode 100755 tests/test_free_both
+ delete mode 100755 tests/test_free_even
+ delete mode 100755 tests/test_free_insert
+ delete mode 100755 tests/test_free_left
+ delete mode 100755 tests/test_free_null
+ delete mode 100755 tests/test_free_odd
+ delete mode 100755 tests/test_free_right
+ delete mode 100755 tests/test_insert_chunk
+ delete mode 100755 tests/test_large
+ delete mode 100755 tests/test_locks
+ delete mode 100755 tests/test_malloc_large
+ delete mode 100755 tests/test_malloc_too_large
+ delete mode 100755 tests/test_malloc_zero
+ delete mode 100755 tests/test_multi_malloc
+ delete mode 100755 tests/test_out_of_ram
+ delete mode 100755 tests/test_random
+ delete mode 100755 tests/test_random_sizes
+ delete mode 100755 tests/test_simple0
+ delete mode 100755 tests/test_simple1
+ delete mode 100755 tests/test_simple2
+ delete mode 100755 tests/test_simple3
+ delete mode 100755 tests/test_simple4
+ delete mode 100755 tests/test_simple5
+ delete mode 100755 tests/test_simple6
+ delete mode 100755 tests/test_split
+ delete mode 100755 tests/test_verify
+ delete mode 100755 tests/test_very_large
+M	.local.git.out
+<<<<<<< HEAD
+Your branch and 'origin/master' have diverged,
+and have 10 and 16 different commits each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+=======
+M	tests/Makefile
+Your branch is up to date with 'origin/master'.
+[master ec43242] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 54 insertions(+), 1 deletion(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master b85f67f] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master cab6398] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 34 insertions(+), 16 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+>>>>>>> dc07903e69e290d44e938bdfcd685eb8532b2919
+Your branch is up to date with 'origin/master'.
+[master 6f2d9ba] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 108d8a7] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 25 insertions(+), 69 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 91ae4cd] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 78 insertions(+), 8 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master b268bc9] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 865a00d] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master e5a4e32] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master c7bdd29] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 4ccd5a7] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 35fcf6e] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 23 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 6c4225e] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master e1e4eb9] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 25fcb88] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 3d63499] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 21 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 565a36f] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 21 insertions(+), 12 deletions(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 21d2ee6] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 609b533] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master ec3b415] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 21 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master ffa983d] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 22 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 4b3c08f] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 29 insertions(+), 8 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 0596763] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 68 insertions(+), 70 deletions(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master fc7c172] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 37aeffc] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 30 insertions(+), 6 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master e6ae783] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master f668052] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 22 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 1eb83dc] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 49ae936] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 128dbcf] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 24 insertions(+), 5 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 4caa7f2] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master edfcadf] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 4c0b77d] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 7826898] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 33 insertions(+), 8 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master c1dba3f] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master b49e3c2] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 0b6472f] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master b85768b] Commit
+ Committer: Youming Ding <ding190@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 18 insertions(+), 67 deletions(-)
